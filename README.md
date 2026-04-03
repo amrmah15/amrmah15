@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/amr-mohamed-4ba242247"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amr%20Mahmoud-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/amrmah15"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-amrmah15-181717?logo=github&logoColor=white"></a>
   <a href="mailto:amrmahmoudhus@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amrmahmoudhus%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to-Backend%20Roles-success">
 </p>
 
 ---
@@ -34,6 +35,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+## 📚 Currently Learning
+- Advanced Spring Security (JWT, OAuth2, method-level authorization)
+- Microservices patterns with Spring Cloud
+- Docker-based deployment workflows
+- Database performance tuning and query optimization
 
 ## 📌 Featured Projects
 - [E-Commerce-System](https://github.com/amrmah15/E-Commerce-System) - Spring Boot backend with JWT auth and role-based access control.
