@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amr Mahmoud Hussein 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+REST+APIs;Building+secure+and+scalable+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security;Secure+and+Scalable+REST+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Sc. Mechatronics Engineering, Higher Technological Institute (2020 - 2025)
+- 🎓 B.Sc. Mechatronics Engineering (2020 - 2025)
 - 🛡️ Military Service: Exempted
 - 📍 Bani Suwayf, Egypt
-- 🌱 Currently improving backend design, security, and scalability skills
+- 💼 Open to Backend Roles
 
 ## 📊 GitHub Stats
 <p>
@@ -37,15 +37,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ## 📚 Currently Learning
-- Advanced Spring Security (JWT, OAuth2, method-level authorization)
-- Microservices patterns with Spring Cloud
-- Docker-based deployment workflows
-- Database performance tuning and query optimization
+- Spring Security (JWT/OAuth2)
+- Microservices with Spring Cloud
+- Docker deployment workflows
+- Query performance tuning
 
 ## 📌 Featured Projects
-- [E-Commerce-System](https://github.com/amrmah15/E-Commerce-System) - Spring Boot backend with JWT auth and role-based access control.
-- [AVR-microcontrollers](https://github.com/amrmah15/AVR-microcontrollers) - Embedded C drivers and mini projects for AVR boards.
-- [POS](https://github.com/amrmah15/POS) - Point of Sale backend API with lightweight frontend views.
+- [E-Commerce-System](https://github.com/amrmah15/E-Commerce-System) - JWT auth and role-based backend.
+- [AVR-microcontrollers](https://github.com/amrmah15/AVR-microcontrollers) - Embedded C drivers and AVR projects.
+- [POS](https://github.com/amrmah15/POS) - POS backend API with lightweight frontend.
 
 <details>
 <summary>📫 Contact</summary>
