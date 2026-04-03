@@ -1,10 +1,14 @@
-# Hi, I'm Amr Mahmoud Hussein 👋
+<h1 align="center">Hi, I'm Amr Mahmoud Hussein 👋</h1>
 
-💻 Java Backend Developer focused on secure and scalable backend systems with Spring Boot.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+REST+APIs;Building+secure+and+scalable+backend+systems" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr%20Mahmoud-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-mohamed-4ba242247)
-[![GitHub](https://img.shields.io/badge/GitHub-amrmah15-181717?logo=github&logoColor=white)](https://github.com/amrmah15)
-[![Email](https://img.shields.io/badge/Email-amrmahmoudhus%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:amrmahmoudhus@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-mohamed-4ba242247"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amr%20Mahmoud-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/amrmah15"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-amrmah15-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:amrmahmoudhus@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amrmahmoudhus%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
@@ -13,6 +17,12 @@
 - 🛡️ Military Service: Exempted
 - 📍 Bani Suwayf, Egypt
 - 🌱 Currently improving backend design, security, and scalability skills
+
+## 📊 GitHub Stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrmah15&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmah15&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
 ## 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
